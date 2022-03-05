@@ -104,3 +104,4 @@ abline(v = mean(slope), col = 'blue', lwd = 5) # nakreslen? pr?m?ru beta_1 do gr
 par(mfrow = c(1, 1))
 
 ###########################################################################
+# test change
